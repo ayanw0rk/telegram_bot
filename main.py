@@ -1,4 +1,3 @@
-# Код для aiogram
 
 import asyncio
 import logging
